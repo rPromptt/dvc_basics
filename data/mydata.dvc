@@ -1,0 +1,5 @@
+outs:
+- md5: f493c1ec87450925667272a66f1bc66f
+  size: 99
+  hash: md5
+  path: mydata
